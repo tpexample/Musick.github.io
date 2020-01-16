@@ -1,2 +1,2 @@
-# Musick.githubl.io
+# Musick.github.io
 Demo page
